@@ -1,7 +1,7 @@
   bug-fix-revert                3c5815d Revert "Update copyright year"
   bug-fix-typo                  47c02f1 Update copyright year
-* main                          1a10a90 Add bug-fix-revert pull request verification record
+* main                          f7a69ad Fix project documentation, formula in README and script, and copyright details
   remotes/origin/HEAD           -> origin/main
   remotes/origin/bug-fix-revert 3c5815d Revert "Update copyright year"
   remotes/origin/bug-fix-typo   47c02f1 Update copyright year
-  remotes/origin/main           1a10a90 Add bug-fix-revert pull request verification record
+  remotes/origin/main           f7a69ad Fix project documentation, formula in README and script, and copyright details
